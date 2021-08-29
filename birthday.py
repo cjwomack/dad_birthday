@@ -1,3 +1,4 @@
+from IPython.display import display, HTML
 from threading import Thread
 from termcolor import colored
 import time
